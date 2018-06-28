@@ -2,7 +2,7 @@
 Project site with heavy CSS animations
 
 
-# Project Title
+# Project #2
 Project site to showcase HTML/CSS3 abilities
 
 # Getting Started
